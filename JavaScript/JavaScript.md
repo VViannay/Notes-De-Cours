@@ -1,4 +1,5 @@
 # JavaScript 
+---
 ## Qu'est ce que JavaScript ?
 
 
@@ -17,3 +18,8 @@ Le JavaScript est un langage dit client-side, c'est-à-dire que les scripts sont
 C'est important, car la finalité des scripts client-side et server-side n'est pas la même. Un script server-side va s'occuper de « créer » la page Web qui sera envoyée au navigateur. Ce dernier va alors afficher la page puis exécuter les scripts client-side tel que le JavaScript. Voici un schéma reprenant ce fonctionnement :
 
 ![enter image description here](https://user.oc-static.com/files/292001_293000/292939.png)
+
+````html
+<div>
+</div>
+````
