@@ -1,4 +1,8 @@
-# Bienvenue sur la prise de notes collaborative de Axel et Vincent
+# Bienvenue sur la prise de notes collaborative de Axel, Vincent et Jeremy.
+#### Retrouver ce projet sur :
+        url = https://github.com/Radic4l/Notes-De-Cours.git
+        url = https://github.com/VViannay/Notes-De-Cours.git
+        url = https://github.com/JeremyCampus/Notes-De-Cours.git
 ---
 ## Un certain nombre  d'``instructions`` sont à respecter pour la bonne ``organisation`` et la ``simplification`` de la recherche d'informations comme privilégier des conventions de nommages explicite
       Exemple :
