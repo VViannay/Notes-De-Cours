@@ -8,11 +8,11 @@
 # Création d'un dossier et sous dossier
 * ### Ajouter un fichier introduction.md (pour expliquer l'utilité de ce dossier et ce qu'il représente).
     ### Exemple :
-    
+
     * [NOM DU DOSSIER] --> [FRAMEWORKS]
     * [SOUS DOSSIER] --> [LARAVEL]
 ---
-# Organisation de l'information 
+# Organisation de l'information
 * # Respecter les règle de mise en forme (titres, sous titres)
     * Titre Important (Explicite) : Heading 1 ex: Laravel
     * Catégorie : Heading 2 ex:  Les Relations
@@ -26,36 +26,37 @@
 
 
   ### Exemple :
-    
+
   ## Pour assurer un bon fonctionnement nous avons besoin des outils et dépendances suivantes :
-    
+
+  #### prérequis:    
     * NPM
     * Cordova
     * Android studio
     * node JS
     * Android SDK (version 7 Oreo)
 ---
-      
-    * Composer 
-    * Laravel 
-    * PHPstorm, VS studio, Atom 
-    * PHP (version 7.1) 
+  #### prérequis:    
+    * Composer
+    * Laravel
+    * PHPstorm, VS studio, Atom
+    * PHP (version 7.1)
     * MariaDB   
-      
----
 
+---
+  #### prérequis:
     * NPM
     * Vue JS
     * Vue-Axios
-    * Vue-google-map 
+    * Vue-google-map
     * Vue-toogle-button
     * Vue-CLI
-    * Bootstrap 
+    * Bootstrap
     * Webpack
 
 # Moghunter said Let's Have Fun !!!
 # Radic4l said Let's Jam !!!
-#### notes personnelles : 
+#### notes personnelles :
 ````java
 // Moghunter said Let s Have Fun !!!
 // Radic4l said Let s Jam !!!
@@ -66,13 +67,3 @@ if (moral < 0) {
   return 'good day for coding !';
 }
 ````
-
-
-     
-
-
-
-
-
-
-
