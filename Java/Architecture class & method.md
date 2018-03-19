@@ -3,10 +3,10 @@
 ````java
 public class WhiteSpace {
 	public static void main(String[] args) {
-  /* Î          Î       Î       Î         Î           Î
-    (1)       (2)     (3)   (4)      (5)       (6)
+  /*       Î      Î     Î    Î    Î       Î
+          (1)    (2)   (3)  (4)  (5)     (6)
 */
-		boolean isFormatted = false;
+	boolean isFormatted = false;
         System.out.println(isFormatted);
 
 	}
