@@ -32,7 +32,7 @@
   ### Exemple :
 
   ## Pour assurer un bon fonctionnement nous avons besoin des outils et dépendances suivantes :
-
+````
   #### prérequis:    
     * NPM
     * Cordova
