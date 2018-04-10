@@ -32,14 +32,14 @@
   ### Exemple :
 
   ## Pour assurer un bon fonctionnement nous avons besoin des outils et dépendances suivantes :
-
+````
   #### prérequis:    
     * NPM
     * Cordova
     * Android studio
     * node JS
     * Android SDK (version 7 Oreo)
----
+-----------------------------------
   #### prérequis:    
     * Composer
     * Laravel
@@ -47,7 +47,7 @@
     * PHP (version 7.1)
     * MariaDB   
 
----
+-----------------------------------
   #### prérequis:
     * NPM
     * Vue JS
@@ -57,7 +57,7 @@
     * Vue-CLI
     * Bootstrap
     * Webpack
-
+````
 # Moghunter said Let's Have Fun !!!
 # Radic4l said Let's Jam !!!
 #### notes personnelles :
